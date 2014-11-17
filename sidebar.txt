@@ -4,7 +4,11 @@
 **Door43**
 
   * [[brh:home|Door43 (brh)]]
-  * [[en:license|License]]
+
+**Resources**
+
+  * [[brh:obs|Open Bible Stories (brh)]]
+
 
 **Downloads**
 
@@ -13,7 +17,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = brh}}
 
+**Latest Status**
+{{page>en:uwadmin:brh:obs:status}}
+
+
 **Language Information**
 
 [[http://www.ethnologue.com/language/brh|Ethnologue data]]
-
