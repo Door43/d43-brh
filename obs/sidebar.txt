@@ -9,3 +9,5 @@
 **Latest Status**
 {{page>en:uwadmin:brh:obs:status}}
 
+**Latest OBS Status**
+{{page>en:uwadmin:brh:obs:status}}

@@ -21,6 +21,9 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 {{page>en:uwadmin:brh:obs:status}}
 
 
+**Latest OBS Status**
+{{page>en:uwadmin:brh:obs:status}}
+
 **Language Information**
 
 [[http://www.ethnologue.com/language/brh|Ethnologue data]]
