@@ -1,9 +1,32 @@
 
 ----
 ~~NOCACHE~~
-**[[brh:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>brh:obs:stories}}
+  * [[brh:home|Door43 (brh)]]
+
+**Resources**
+
+  * [[brh:obs|Open Bible Stories (brh)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-brh|d43-brh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-brh/archive/master.zip|d43-brh.zip]]
+
+**Recent Changes**
+{{changes>ns = brh}}
+
+**Latest OBS Status**
+{{page>en:uwadmin:brh:obs:status}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/brh|Ethnologue data]]
+
+**Resources**
+
+  * [[brh:obs|Open Bible Stories (brh)]]
 
 **Latest OBS Status**
 {{page>en:uwadmin:brh:obs:status}}
